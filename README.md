@@ -10,7 +10,7 @@ This is a simple web page that displays a random pickup line when a button is cl
  #pickup-line and #button selectors style the pickup line and button.
  .copyright selector styles the copyright notice.
 
--JavaScript: Generates a random pickup line when the button is clicked
+- JavaScript: Generates a random pickup line when the button is clicked.
  impressCrush function: Generates a random pickup line when button is clicked.
  pickupLines variable: Contains all possible pickup lines.
  pickupLine variable: Stores a random pickup line from pickupLines.
