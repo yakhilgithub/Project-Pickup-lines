@@ -1,5 +1,5 @@
 # Project-Pickup-lines
-This is a simple web page that displays a random pickup line when a button is clicked.
+#Day 2 of 30 days 30 project challenge Info :This is a simple web page that displays a random pickup line when a button is clicked.
 - HTML: Displays pickup lines, a button to generate them, and a copyright notice.
  div with id pickup-line: Displays pickup lines.
  button with id button: User clicks to generate new pickup line.
